@@ -1,20 +1,36 @@
 {
-	"title" : "Simple Dash",
+	"title" : "Server Depto",
 	"items" : [
 		{
-			"alt" : "Github",
+			"alt" : "GitHub",
 			"icon" : "fab fa-github",
-			"link" : "https://github.com/kutyla-philipp"
+			"link" : "https://github.com/hunsrus"
 		},
 		{
-			"alt" : "Twitter",
-			"icon" : "fab fa-twitter",
-			"link" : "https://twitter.com/Kukielka_"
+			"alt" : "Telegram Bot",
+			"icon" : "fa fa-robot",
+			"link" : "http://t.me/sv_depto_bot"
 		},
 		{
-			"alt" : "Docker Hub",
-			"icon" : "fab fa-docker",
-			"link" : "https://hub.docker.com/u/kukielka/"
-		}
+			"alt" : "Apache",
+			"icon" : "fa fa-server",
+			"link" : "index2.html"
+		},
+                {
+                        "alt" : "Trello",
+                        "icon" : "fab fa-trello",
+                        "link" : "https://trello.com"
+                },
+                {
+                        "alt" : "Hosted Games",
+                        "icon" : "fa fa-gamepad",
+                        "link" : "common/img/"
+                },
+                {
+                        "alt" : "House Control",
+                        "icon" : "fa fa-home",
+                        "link" : "common/img/"
+                }
+
 	]
 }

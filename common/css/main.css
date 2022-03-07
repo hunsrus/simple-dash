@@ -5,8 +5,8 @@ html, body {
 }
 body {
 	z-index: 1;
-	background-position: center;
-	background-attachment: fixed;
+	background-image: url('../img/background.jpg');
+	background-size: cover;
 }
 
 .github-corner {
