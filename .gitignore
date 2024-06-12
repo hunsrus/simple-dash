@@ -1,5 +1,7 @@
 config.json
 favicon.ico
 
+.vite
+
 photogallery
 websites/*
